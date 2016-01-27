@@ -1,0 +1,13 @@
+---
+layout: post
+title: Light
+---
+
+# Light
+
+For the past few weeks, I've been using a combination of my iPhone and my new iPad Pro for nearly all of my computing needs. The only times I've taken my laptop out is when I play games, and when watching videos in the bath. For what I do most of the time (browsing the web, writing short posts, and some very basic image editing), I haven't missed my laptop once.  iOS is, for me, a better operating system than either Windows or OS X, and the portability of an iPad combined with the larger screen has been great for working. It's a much more lightweight system, without the decades of cruft is OS X, but with iOS 9 is powerful enough for what I need. I've even been able to do some edits to the code behind this website, and created a new icon for the site too, only using my iPad.[^apps] 
+
+Today's photo is of the lampshade in my house. The lampshade is really interesting, and from this angle cast interesting light and shadows.
+![25/366](https://images.typed.com/d71a1186-ea9a-40ea-a611-805be43dfacb/image.jpeg)
+
+[^apps]: I used [Coda](https://itunes.apple.com/gb/app/coda/id500906297?mt=8&uo=4&at=1000l8mx) to edit the HTML and CSS of the site, and [Pixelmator](https://itunes.apple.com/gb/app/pixelmator/id924695435?mt=8&uo=4&at=1000l8mx) to create the favicon for the site

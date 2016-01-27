@@ -1,0 +1,14 @@
+baseurl = "http://localhost:1313"
+languageCode = "en-GB"
+title = "Human Boring"
+disqusShortname = ""
+theme = "angels-ladder"
+
+[Params]
+subtitle = "Definitely a Human"
+facebook = ""
+twitter = "https://twitter.com/humanboring"
+github = ""
+profile = "/images/profile.png"
+copyright = ""
+analytics = ""
