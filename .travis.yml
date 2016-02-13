@@ -4,4 +4,14 @@ rvm:
 install: gem install jekyll
 script: jekyll build
 exclude: [vendor]
-after_success: bundle exec s3_website push --headless
+deploy:
+  - provider: s3
+    access_key_id: "AKIAIA3HHQNNXUWHU452Q"
+    secret_access_key: "61v8rPfWsSfMRyGCxr/7+zNIBFFryw/0JoFGn78r"
+    bucket: "humanboring.net"
+    skip_cleanup: true
+ - provider: s3
+   access_key_id: "AKIAIA3HHQNNXUWHU452Q"
+   secret_access_key: "61v8rPfWsSfMRyGCxr/7+zNIBFFryw/0JoFGn78r"
+   bucket: "www.humanborint.net"
+   skip_cleanup: true
