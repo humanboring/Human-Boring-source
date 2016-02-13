@@ -3,7 +3,6 @@ rvm:
 - 2.1
 install: gem install jekyll
 script: jekyll build
-exclude: [vendor]
 deploy:
   - provider: s3
     access_key_id: "AKIAIA3HHQNNXUWHU452Q"
