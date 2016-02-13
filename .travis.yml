@@ -10,3 +10,4 @@ deploy:
     secret_access_key: "61v8rPfWsSfMRyGCxr/7+zNIBFFryw/0JoFGn78r"
     bucket: "humanboring.net"
     skip_cleanup: true
+    region: eu-west-1
