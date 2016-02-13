@@ -10,3 +10,4 @@ deploy:
     bucket: "humanboring.net"
     skip_cleanup: true
     region: eu-west-1
+    acl: public_read
