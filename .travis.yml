@@ -5,8 +5,8 @@ install: gem install jekyll
 script: jekyll build
 deploy:
   - provider: s3
-    access_key_id: "AKIAIA3HHQNNXUWHU452Q"
-    secret_access_key: "61v8rPfWsSfMRyGCxr/7+zNIBFFryw/0JoFGn78r"
+    access_key_id: "AKIAJKMH7YHSIWVA4DJA"
+    secret_access_key: "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"
     bucket: "humanboring.net"
     skip_cleanup: true
     region: eu-west-1
