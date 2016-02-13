@@ -10,6 +10,4 @@ deploy:
     access_key_id: "AKIAJKMH7YHSIWVA4DJA"
     secret_access_key: "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"
     bucket: "humanboring.net"
-    skip_cleanup: true
     region: eu-west-1
-    acl: public_read
