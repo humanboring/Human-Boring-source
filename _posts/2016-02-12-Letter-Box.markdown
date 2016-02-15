@@ -7,6 +7,6 @@ Post in the US and UK is managed in a very similar manner in most ways. The big 
 <!--break-->
 I spotted a very old and worn example of the typical letter box style found in the UK, though this one was unusually cut into a fence rather than front door.
 
-![43/366](media.humanboring.net/photos/2016-02-12.jpeg)
+![43/366](http://media.humanboring.net/photos/2016-02-12.jpeg)
 
 [^1]:	I know that some places in the US use UK style letter boxes too. But very few places in the UK use Mailboxes.  

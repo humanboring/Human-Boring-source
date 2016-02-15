@@ -8,4 +8,4 @@ Today I got a new toy: an Apple Pencil. It's a stylus designed to work with the 
 It's super fast and accurate when using the drawing in the built-in notes app, with virtually no lag. You can notice the writing slightly altering itself, so Apple is clearly doing some work to guess what you meant to write. The palm rejection also seemed perfect from my use today. However, in some third party apps, such as Paper by 53, I noticed the palm rejection and the lag slightly worse, though still fully usable.
 
 Here's my (second) picture of the day below, which is a hand-written alternate version of this post. Sorry for my handwriting!
-![29a/366](media.humanboring.net/photos/2016-01-29a.jpeg)
+![29a/366](http://media.humanboring.net/photos/2016-01-29a.jpeg)

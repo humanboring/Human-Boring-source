@@ -6,4 +6,4 @@ Today, February 14th, is Valentine's Day. I've spent the day relaxing with my pa
 <!--break-->
 Today's picture is of my favourite type of flower, the orchid. Flowers are traditionally associated with love (maybe due to the reproductive connection), so it seems particularly appropriate on this day. 
 
-![45/366](media.humanboring.net/photos/2016-02-14.jpeg)
+![45/366](http://media.humanboring.net/photos/2016-02-14.jpeg)

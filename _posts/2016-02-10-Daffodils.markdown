@@ -7,5 +7,5 @@ When I was 18, I planned to go to university in Brighton. However, since I didn'
 
 The daffodil is the official national flower of Wales, and is particularly associated with St. David's day (the feast day of the patron saint of Wales). The vase of daffodils in my house add some colour, and remind me of my time in Wales, both good and bad.
 <!--break-->
-![41/366](media.humanboring.net/photos/2016-02-10.jpeg)
+![41/366](http://media.humanboring.net/photos/2016-02-10.jpeg)
 
