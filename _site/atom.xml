@@ -4,7 +4,7 @@
  <title>Human Boring</title>
  <link href="http://humanboring.net/atom.xml" rel="self"/>
  <link href="http://humanboring.net/"/>
- <updated>2016-02-14T22:20:44+00:00</updated>
+ <updated>2016-02-15T00:29:33+00:00</updated>
  <id>http://humanboring.net</id>
  <author>
    <name>Ben Hamblin-Pyke</name>
@@ -13,17 +13,727 @@
 
  
  <entry>
-   <title>What&#39;s Jekyll?</title>
-   <link href="http://humanboring.net/whats-jekyll.html"/>
-   <updated>2013-12-31T00:00:00+00:00</updated>
-   <id>http://humanboring.net/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+   <title>Valentine&#39;s Day</title>
+   <link href="http://humanboring.net/Valentine's-Day.html"/>
+   <updated>2016-02-14T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Valentine's-Day</id>
+   <content type="html">&lt;p&gt;Today, February 14th, is Valentine’s Day. I’ve spent the day relaxing with my partner, going to the pub, and playing with my new puppy, so it’s been a pretty good day for me. As I gift, rather than chocolates or flowers, I got her a game called &lt;a href=&quot;http://www.explodingkittens.com/&quot;&gt;Exploding Kittens&lt;/a&gt;, which I highly recommend. Although you can play it with only two people, it’s much more fun with a larger group, and I’m looking forward to playing it again.
+&lt;!--break--&gt;
+Today’s picture is of my favourite type of flower, the orchid. Flowers are traditionally associated with love (maybe due to the reproductive connection), so it seems particularly appropriate on this day.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.typed.com/21fc15e7-77d2-4bcb-8df7-f45be5593ce4/image.jpeg&quot; alt=&quot;45/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hair</title>
+   <link href="http://humanboring.net/Hair.html"/>
+   <updated>2016-02-13T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Hair</id>
+   <content type="html">&lt;p&gt;I’ve been working further on setting up a site in Jekyll that I can run from iOS. By the end of this weekend I think I’ll have a working setup, and I’ll write up what I did to get it all working.&lt;/p&gt;
 
-&lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For today’s picture, I took a photo of my partners hair. She’s dyed it so that there’s a gradient from the natural light brown to a purple colour at the bottom. I love colour gradients in photos, and this one worked well in the natural light from my window. 
+&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.typed.com/12f6fce6-64dd-4cdd-b9c9-3ca98dc3cb50/image.jpeg&quot; alt=&quot;44/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Letter Box</title>
+   <link href="http://humanboring.net/Letter-Box.html"/>
+   <updated>2016-02-12T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Letter-Box</id>
+   <content type="html">&lt;p&gt;Post in the US and UK is managed in a very similar manner in most ways. The big difference between the UK and US is where post is delivered to. In most houses in the US, mail is delivered to a mailbox, a separate box at the front of the property.&lt;sup id=&quot;fnref:post&quot;&gt;&lt;a href=&quot;#fn:post&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; In the UK however, almost universally post is delivered to people’s houses through a letter box in the front door.
+&lt;!--break--&gt;
+I spotted a very old and worn example of the typical letter box style found in the UK, though this one was unusually cut into a fence rather than front door.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.typed.com/2a5cd125-a225-4b6d-8fa0-2ff57572d65d/image.jpeg&quot; alt=&quot;43/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:post&quot;&gt;
+      &lt;p&gt;I know that some places in the US use UK style letter boxes too. But very few places in the UK use Mailboxes. &lt;a href=&quot;#fnref:post&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Odin</title>
+   <link href="http://humanboring.net/Odin.html"/>
+   <updated>2016-02-11T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Odin</id>
+   <content type="html">&lt;p&gt;Today my mum and I came home with a new puppy. He’s a Wheaton Terrier, who we’ve named Odin. All the pets I’ve had since the age of 7 or 8 have been named after ancient gods (hence the unfortunately named &lt;a href=&quot;http://www.humanboring.net/blog/cat&quot;&gt;Isis&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;We’ve started house training him, as well as getting him to sit, and playing with various new dog toys. He already seems to be settling in, and had a long nap this afternoon on the dog bed beside me. In his, earlier, shorter nap, he went to sleep with his head resting on my foot, as shown in today’s photo.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/2c868bcc-9907-449c-aaf5-6e21d0de0071/image.jpeg&quot; alt=&quot;42/366&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daffodils</title>
+   <link href="http://humanboring.net/Daffodils.html"/>
+   <updated>2016-02-10T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Daffodils</id>
+   <content type="html">&lt;p&gt;When I was 18, I planned to go to university in Brighton. However, since I didn’t quite meet the required grades for entry to the University of Sussex, I ended up going to Swansea University, in Wales, to study. Having spent three years living in Wales, I now have a certain fondness to Welsh culture.&lt;/p&gt;
+
+&lt;p&gt;The daffodil is the official national flower of Wales, and is particularly associated with St. David’s day (the feast day of the patron saint of Wales). The vase of daffodils in my house add some colour, and remind me of my time in Wales, both good and bad.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/28d68a10-d760-4fde-88f5-224503cca251/image.jpeg&quot; alt=&quot;41/366&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Parakeets</title>
+   <link href="http://humanboring.net/Parakeets.html"/>
+   <updated>2016-02-09T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Parakeets</id>
+   <content type="html">&lt;p&gt;Every now and then, when walking on the streets round where I live, you might spot a fast-moving flash of green. If you manage to get a closer look, you’ll spot an animal you wouldn’t usually except to see in the cold, rainy British Isles. I am, of course, referring to the Rose-ringed parakeets that live in south-west London. &lt;sup id=&quot;fnref:parakeets&quot;&gt;&lt;a href=&quot;#fn:parakeets&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;You can actually see a small group of them in today’s photo, silhouetted against the late afternoon sky. I’d really like to get a closer look in a photo some time this year, as they are particularly beautiful birds. The fact that they’re actually native to &lt;a href=&quot;http://www.xeno-canto.org/species/Psittacula-krameri?query=ssp:%22borealis%22&quot;&gt;Northern India&lt;/a&gt; makes it especially excited to have them so close to me all year round.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/ac01c157-c6a7-4c81-8045-95d57704eeb9/image.jpeg&quot; alt=&quot;40/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:parakeets&quot;&gt;
+      &lt;p&gt;There’s even a &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Rose-ringed_parakeet&quot;&gt;Wikipedia page&lt;/a&gt; for these invasive birds now living in west London. &lt;a href=&quot;#fnref:parakeets&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imogen</title>
+   <link href="http://humanboring.net/Imogen.html"/>
+   <updated>2016-02-08T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Imogen</id>
+   <content type="html">&lt;p&gt;Today has been one of the worst, weather wise, of the year. &lt;a href=&quot;http://www.bbc.co.uk/news/uk-35516741&quot;&gt;Storm Imogen&lt;/a&gt; has hit the UK, with 96mph winds and 63ft waves. Fortunately for me, the storm isn’t quite as powerful in London, though it has been enough to put me off my planned walk around the park.&lt;/p&gt;
+
+&lt;p&gt;Because of the storm, today’s picture is from inside my house. The reflection of my phone is visible between the raindrops, and the white clouded sky. With any luck the storm will have passed by tomorrow, so I can get back outside for tomorrow’s photo.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/0376f702-1882-49b8-9255-9276c11b3f14/image.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Texture</title>
+   <link href="http://humanboring.net/Texture.html"/>
+   <updated>2016-02-07T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Texture</id>
+   <content type="html">&lt;p&gt;When taking pictures for this blog in 2016, I’ve found myself drawn towards pattern and texture, rather than people or action. I love both natural texture, as found in my many close-ups of plants, and the architecture of the city where I live. Today’s photo is one I saw on the way to the cinema. Built into a wall was a set of tiles and holes, forming the pattern seen in the photo. This sort of texture is more common in middle-eastern and Muslim architecture, so I was pleasantly surprised to find it so close to my home.
+&lt;!--break--&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>iPad Pro</title>
+   <link href="http://humanboring.net/iPad-Pro.html"/>
+   <updated>2016-02-06T00:00:00+00:00</updated>
+   <id>http://humanboring.net/iPad-Pro</id>
+   <content type="html">&lt;p&gt;This isn’t going to be an in-depth review of the iPad Pro, just my thoughts. It you’re looking for something more detailed, I recommend &lt;a href=&quot;https://www.macstories.net/stories/ipad-pro-review/&quot;&gt;this review&lt;/a&gt; by Federico Viticci.&lt;/p&gt;
+
+&lt;p&gt;I’ve been using the Pro as my full-time computing device for about a month now, with the majority of my gadget time split between this and my iPhone. I can’t say it’s completely replaced my laptop, but 99% of the time, the iPad wins out. Browsing the web is a superior experience in particular, with the large screen that can display a page in landscape or portrait. I’ve never had an issue with slowdowns or stutters (unlike the occasional frame-rate drop I will experience on my iPhone 6 Plus), and have virtually no complaints. I also find iOS suits how I like to work, and have found apps that allow me to do nearly anything I was doing on OS X with equal ease.
+&lt;!--break--&gt;
+The two main times I still find myself reaching for the MacBook are when in the bath, or when playing a game. The advantage in gaming is going to stay with an Intel-chipped device that can run Windows for a while yet. When in the bath, the Smart Cover doesn’t allow for an angle that allows me to watch TV shows, so that job falls to the MacBook again.
+&lt;img src=&quot;https://images.typed.com/719b1d47-7f0e-43b3-bbcf-5579f36cc4b6/image.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Storm</title>
+   <link href="http://humanboring.net/Storm.html"/>
+   <updated>2016-02-05T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Storm</id>
+   <content type="html">&lt;p&gt;Today I spent nearly all of the day indoors, in a full day of interviews. The interview was in Westminster, know for being the heart of the government in the UK, as well as where the Prime Minister lives. When I left the building, and finally got outside again, the sun was already well on its way down. I took a few photos in central London, and ended up choosing this picture looking from Westminster Bridge down towards the London Eye. The dark clouds made everything look more than a little menacing.
+&lt;!--break--&gt;
+Sorry for the short posts the last few days, but I’ve been either very busy or very tired. Here is today’s picture.
+&lt;img src=&quot;https://images.typed.com/ad22933c-1dbd-4da2-b942-92fb53a17937/IMG_0472.JPG&quot; alt=&quot;36/366&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;P.S. this is the first post in a long time written on my mac. I’ve booted it up to play &lt;a href=&quot;https://xcom.com/&quot;&gt;Xcom 2&lt;/a&gt;, which I’me very excited to play.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bloom</title>
+   <link href="http://humanboring.net/Bloom.html"/>
+   <updated>2016-02-04T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Bloom</id>
+   <content type="html">&lt;p&gt;Spring is truly on the way. I’ve had a relaxing day, since I’m attending an all day interview tomorrow. I will take a picture tomorrow as well to post, but I’m not sure how good it will be.  All depends on how much free time I have. 
+&lt;!--break--&gt;
+Today’s picture was taken as the sun was just starting to set. Walking along the street I took many pictures, mainly of plants, but this was my favourite from today.
+&lt;img src=&quot;https://images.typed.com/cca6f85f-fa2d-4570-8f34-d09433e6192b/image.jpeg&quot; alt=&quot;34/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sky</title>
+   <link href="http://humanboring.net/Sky.html"/>
+   <updated>2016-02-03T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Sky</id>
+   <content type="html">&lt;p&gt;I know, a second picture looking upwards in two days. As I was stuck inside an office building a lot of the day, this was the only good picture I managed to get, before my iPhone camera couldn’t cope with the dusk light. Still, I thought this picture was interesting, and is more focused on the manufactured than the natural. The glass entrance to the building provided an interesting frame to one of the few moments of blue sky this afternoon. 
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/d8e817cb-326b-4c41-b723-795ecfd054c5/image.jpeg&quot; alt=&quot;34/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fitness</title>
+   <link href="http://humanboring.net/Fitness.html"/>
+   <updated>2016-02-02T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Fitness</id>
+   <content type="html">&lt;p&gt;I’ve been getting back into going to the gym regularly, after a bit of a break over Christmas and New Year. I’m not a body builder, and not aiming to be an athlete, but I always feel much better when I’m exercising regularly. It also will keep me healthier, and make me live longer (I hope), which is a nice added bonus.
+&lt;!--break--&gt;
+I took today’s photo when walking back from the gym this afternoon. Despite being fairly cool, the sun was casting a beautiful light. The photo I end up choosing was one from underneath a tree, looking up towards the sky. 
+&lt;img src=&quot;https://images.typed.com/14f223f9-5006-4c8f-9bd8-40cb32d98d15/image.jpeg&quot; alt=&quot;33/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Best of January</title>
+   <link href="http://humanboring.net/Best-of-January.html"/>
+   <updated>2016-01-31T18:00:00+00:00</updated>
+   <id>http://humanboring.net/Best-of-January</id>
+   <content type="html">&lt;p&gt;Since I’ve reached the end of the first month of my blog, I’ve decided to do another post today, with a countdown of my favourite photos of this month. Onwards to month two!
+&lt;!--break--&gt;
+—&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.humanboring.net/blog/alloy&quot;&gt;&lt;em&gt;Alloy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I love the colour and texture in this photo. It’s one of the more simple pictures I’ve taken this year, and I’m pretty happy with how it turned out.
+&lt;img src=&quot;https://images.typed.com/e502d831-5910-40aa-a1cb-27d6c2c62c43/image.jpeg&quot; alt=&quot;28/366&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.humanboring.net/blog/chicken&quot;&gt;&lt;em&gt;Chicken&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One of the three pictures of animals I have posted so far this year, the photo of the chicken is the one I’m most pleased with. The sharply focused bird contrasted with the background worked particularly well in this photo.
+&lt;img src=&quot;https://images.typed.com/a147cd97-34bd-447b-a6e7-88231bd2fe5b/image.jpeg&quot; alt=&quot;12/366&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.humanboring.net/blog/day_five&quot;&gt;&lt;em&gt;5/366&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This photo is what I would call a macro shot, though that might not be the correct term. &lt;sup id=&quot;fnref:photo&quot;&gt;&lt;a href=&quot;#fn:photo&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; The sunset in the background added some colour to the shot, and I love the texture on this fallen branch. It’s a shame that I didn’t think of a better title for this post.
+&lt;img src=&quot;https://images.typed.com/87995702-7261-4f9a-ab33-a6d4e72d566c/image.jpeg&quot; alt=&quot;5/366&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.humanboring.net/blog/glockenspiel&quot;&gt;&lt;em&gt;Glockenspiel&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;My second favourite photo of the month, I love the pattern of shadow and light cast on the wall by the trees outside. The bright colours of the children’s instrument stand out against the starkness of the rest of the photograph.
+&lt;img src=&quot;https://images.typed.com/4935a817-500a-4c9a-b312-3863502b8cbf/image.jpeg&quot; alt=&quot;15/366&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.humanboring.net/blog/clifton&quot;&gt;&lt;em&gt;Clifton&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is my favourite photo from this month. From the darkness of the night, the lights on the Clifton Suspension bridge provide an island of illumination. The whole Clifton area is particularly beautiful, especially at night, and the views from the bridge are spectacular.
+&lt;img src=&quot;https://images.typed.com/935c46a7-03e3-48fd-9bfc-8a4af55e562e/image.jpeg&quot; alt=&quot;23/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:photo&quot;&gt;
+      &lt;p&gt;I am a total amateur in photography, and need to do a lot more reading and learning over this year. &lt;a href=&quot;#fnref:photo&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cat</title>
+   <link href="http://humanboring.net/Cat.html"/>
+   <updated>2016-01-31T17:00:00+00:00</updated>
+   <id>http://humanboring.net/Cat</id>
+   <content type="html">&lt;p&gt;So I’ve shared a picture of a chicken, and one of my (now dead) dog on this site, but as of yet no pictures of my cat. This is mainly because, since she is so unsociable, she’s very difficult to take a good photo of. Today’s photo is the best one I could get after a good while of trying.&lt;/p&gt;
+
+&lt;p&gt;You may notice I haven’t mentioned her name yet. Back in 2004, when we first got her, we named her ‘Isis’ after the Ancient Egyptian goddess. Unfortunately, that name now has other associations. We haven’t changed her name, and I’m really hoping that no terrorist organisations start using the name of one of my pets again.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/4b0350fb-1da3-4a76-8116-127a728b707a/image.jpeg&quot; alt=&quot;31/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Benched</title>
+   <link href="http://humanboring.net/Benched.html"/>
+   <updated>2016-01-30T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Benched</id>
+   <content type="html">&lt;p&gt;Today, while I was sitting in the kitchen with a cup of coffee, I looked out the back door and spotted today’s picture. The sun was shining, and illuminating the bench in my back garden perfectly, which is unusual for this time of year. The bench is one of the nicest looking benches that I’ve seen, with the flowing shapes and the gentle sky blue colour.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/502ce00f-efb0-4a6d-83d9-5057dc2d281d/image.jpeg&quot; alt=&quot;30/366&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Bonus, Puppy. My family is getting a puppy in about two weeks. I’ll be sure to post a picture that day, but as a preview, here is a short video of one of his brothers at the dog breeder’s house.&lt;/p&gt;
+&lt;iframe src=&quot;https://vine.co/v/i5H3xHFDvAg/embed/simple&quot; width=&quot;600&quot; height=&quot;600&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;script src=&quot;https://platform.vine.co/static/scripts/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pencil</title>
+   <link href="http://humanboring.net/Pencil.html"/>
+   <updated>2016-01-29T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Pencil</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://images.typed.com/feeceef7-0878-4803-8182-98d8e1ac2365/image.jpeg&quot; alt=&quot;29/366&quot; /&gt;
+&lt;!--break--&gt;
+Today I got a new toy: an Apple Pencil. It’s a stylus designed to work with the iPad Pro, but with some additional abilities compared to most other styluses previously available. It’s able to sense depth and pressure, which can alter the thickness of the pen stroke, as well as angle, allowing shading with certain tools.&lt;/p&gt;
+
+&lt;p&gt;It’s super fast and accurate when using the drawing in the built-in notes app, with virtually no lag. You can notice the writing slightly altering itself, so Apple is clearly doing some work to guess what you meant to write. The palm rejection also seemed perfect from my use today. However, in some third party apps, such as Paper by 53, I noticed the palm rejection and the lag slightly worse, though still fully usable.&lt;/p&gt;
+
+&lt;p&gt;Here’s my (second) picture of the day below, which is a hand-written alternate version of this post. Sorry for my handwriting!
+&lt;img src=&quot;https://images.typed.com/e256cda4-e315-453b-8785-1e7b3968e9be/image.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Alloy</title>
+   <link href="http://humanboring.net/Alloy.html"/>
+   <updated>2016-01-28T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Alloy</id>
+   <content type="html">&lt;p&gt;Metals have been an essential part of human civilisation for thousands of years. The &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Chalcolithic&quot;&gt;Chalcolithic&lt;/a&gt; era, when humans first started using metal in tools, was around 7000 years ago. However, as useful as metals are, many of the pure, elemental metals, also have properties that make them less useful for us. Copper, the metal first extracted and used by humans, oxidises over time, turning green. It also has a very high melting point, making it difficult to form, and isn’t very malleable, making it difficult to shape into tools.&lt;/p&gt;
+
+&lt;p&gt;Very quickly we discovered that by mixing different metals together, it’s possible to make a new material with some of the best properties of the metals put in. In some cases, it can even have properties different from the metals used. For example, brass is more malleable than either the zinc or copper used to make it. Because of this, it has been used in many different areas where the ability to shape the alloy is essential, such as musical instruments.
+&lt;!--break--&gt;
+The picture of today is of the hammered brass lamp in my house.
+&lt;img src=&quot;https://images.typed.com/e502d831-5910-40aa-a1cb-27d6c2c62c43/image.jpeg&quot; alt=&quot;28/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Growth</title>
+   <link href="http://humanboring.net/Growth.html"/>
+   <updated>2016-01-27T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Growth</id>
+   <content type="html">&lt;p&gt;I’ve been experimenting with various services and methods to run this website. The first version of Human Boring was run off &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, a static website system, meaning I would rebuild the website with every new post, but it would be extremely fast to load for readers. The fact I could host the website on &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; for free was a draw also.&lt;/p&gt;
+
+&lt;p&gt;However, with the update to Jekyll 3.0, GitHub Pages was temporarily incompatible with my blog, and the theme I had based the website on was also outdated. Fortunately, I had backed &lt;a href=&quot;https://www.typed.com/&quot;&gt;Typed.com&lt;/a&gt;, and was able to move to there to run this blog. So far, I’ve stuck with them, due to the excellent (and easily modifiable) built-in themes, and the polish and ease of use. I have experimented with Wordpress also, and have a version of this site running there, but the difficulty of finding a theme I like has kept me away for now.
+&lt;!--break--&gt;
+Today’s picture is of a plant I spotted while out walking today. I love the brightness of the green, in contrast to the grey and dull weather we’ve had all week in London. 
+&lt;img src=&quot;https://images.typed.com/4a062016-e251-4eb2-9168-cfe82231a589/image.jpeg&quot; alt=&quot;27/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pyre</title>
+   <link href="http://humanboring.net/Pyre.html"/>
+   <updated>2016-01-26T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Pyre</id>
+   <content type="html">&lt;p&gt;Fire has been a part of human history, in life and death, for most of our existence. For thousands of years, people have used a pyre as part of the funeral rights of the dead, taking somebody from this life to the next. The word we use dates back to the ancient Greeks (πυρά), though the practice is much more ancient than even that civilisation. It has had an impact on pop culture also, from the burning Viking boats in historical dramas, to the burning pyre used to honour &lt;a href=&quot;http://youtu.be/49ypdyXN3RQ&quot;&gt;Darth Vader&lt;/a&gt; at the end of Return of the Jedi.
+&lt;!--break--&gt;
+Using the kindling used for my wood burning stove (see &lt;a href=&quot;http://www.humanboring.net/blog/fire&quot;&gt;Fire&lt;/a&gt;), I constructed a miniature pyre, which is today’s picture.
+&lt;img src=&quot;https://images.typed.com/d75a8b8c-7131-48a9-aeaa-269f7ea0d48b/image.jpeg&quot; alt=&quot;26/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Light</title>
+   <link href="http://humanboring.net/Light.html"/>
+   <updated>2016-01-25T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Light</id>
+   <content type="html">&lt;p&gt;For the past few weeks, I’ve been using a combination of my iPhone and my new iPad Pro for nearly all of my computing needs. The only times I’ve taken my laptop out is when I play games, and when watching videos in the bath. For what I do most of the time (browsing the web, writing short posts, and some very basic image editing), I haven’t missed my laptop once.  iOS is, for me, a better operating system than either Windows or OS X, and the portability of an iPad combined with the larger screen has been great for working. It’s a much more lightweight system, without the decades of cruft is OS X, but with iOS 9 is powerful enough for what I need. I’ve even been able to do some edits to the code behind this website, and created a new icon for the site too, only using my iPad.&lt;sup id=&quot;fnref:apps&quot;&gt;&lt;a href=&quot;#fn:apps&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; 
+&lt;!--break--&gt;
+Today’s photo is of the lampshade in my house. The lampshade is really interesting, and from this angle cast interesting light and shadows.
+&lt;img src=&quot;https://images.typed.com/d71a1186-ea9a-40ea-a611-805be43dfacb/image.jpeg&quot; alt=&quot;25/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:apps&quot;&gt;
+      &lt;p&gt;I used &lt;a href=&quot;https://itunes.apple.com/gb/app/coda/id500906297?mt=8&amp;amp;uo=4&amp;amp;at=1000l8mx&quot;&gt;Coda&lt;/a&gt; to edit the HTML and CSS of the site, and &lt;a href=&quot;https://itunes.apple.com/gb/app/pixelmator/id924695435?mt=8&amp;amp;uo=4&amp;amp;at=1000l8mx&quot;&gt;Pixelmator&lt;/a&gt; to create the favicon for the site &lt;a href=&quot;#fnref:apps&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Triangle</title>
+   <link href="http://humanboring.net/Triangle.html"/>
+   <updated>2016-01-24T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Triangle</id>
+   <content type="html">&lt;p&gt;I’ve just got back from watching &lt;a href=&quot;https://itunes.apple.com/gb/movie/the-danish-girl/id1063835961?uo=4&amp;amp;at=1000l8mx&quot;&gt;The Danish Girl&lt;/a&gt; in the cinema. Despite criticisms about &lt;a href=&quot;http://www.pinknews.co.uk/2015/09/06/the-danish-girl-director-explains-lack-of-trans-actor-in-lead-role/&quot;&gt;not using a trans actor&lt;/a&gt; in the lead role (which I totally agree with), this is an excellent film. Brilliant acting by the two leads, and a really well-made film, this is definitely worth watching.
+&lt;!--break--&gt;
+Today’s picture, which is totally unrelated to the film really, is of two pillows and a rug. This is finishing off my first themed photo week, and I quite enjoyed making myself take some different pictures from normal. I’ll definitely do it again.
+&lt;img src=&quot;https://images.typed.com/531c58de-d7e7-433a-be29-8513fe92c357/image.jpeg&quot; alt=&quot;24/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Clifton</title>
+   <link href="http://humanboring.net/Clifton.html"/>
+   <updated>2016-01-23T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Clifton</id>
+   <content type="html">&lt;p&gt;I’m spending this weekend in Bristol, visiting my partner, a trainee nurse. We went on a little trip round the city, ending up at the Clifton Suspension bridge. Walking across the bridge, you had excellent views of the whole of Bristol&lt;sup id=&quot;fnref:night&quot;&gt;&lt;a href=&quot;#fn:night&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and the other side the river Avon stretching towards the sea.
+&lt;!--break--&gt;
+Today’s picture is taken from the bridge, at night time.
+&lt;img src=&quot;https://images.typed.com/935c46a7-03e3-48fd-9bfc-8a4af55e562e/image.jpeg&quot; alt=&quot;23/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:night&quot;&gt;
+      &lt;p&gt;Unfortunately, my iPhone camera wasn’t able to get a good picture of the city at night time. I’ll have to return there again during the day. &lt;a href=&quot;#fnref:night&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Travel</title>
+   <link href="http://humanboring.net/Travel.html"/>
+   <updated>2016-01-22T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Travel</id>
+   <content type="html">&lt;p&gt;Today I’m driving from London to Bristol. Long journeys are always stressful, monotonous, tiring, and sometimes inspiring.&lt;/p&gt;
+
+&lt;p&gt;Whenever I’m travelling, I make sure to bring with me some warm clothes I can easily access. You never know if you’ll need to pop out for a wee on the roadside, or if the car will break down. 
+&lt;!--break--&gt;
+Today’s picture is of my favourite woolly hat, hand-knitted by my mother. 
+&lt;img src=&quot;https://images.typed.com/f27ed426-3a5f-4b10-bb96-05c3b75cd94e/image.jpeg&quot; alt=&quot;22/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Grid</title>
+   <link href="http://humanboring.net/The-Grid.html"/>
+   <updated>2016-01-21T00:00:00+00:00</updated>
+   <id>http://humanboring.net/The-Grid</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.imdb.com/title/tt1104001/&quot;&gt;Tron Legacy&lt;/a&gt; wasn’t a very good movie, by all accounts. However, it did have one big redeeming feature: the totally amazing soundtrack by Daft Punk. I’m a big soundtrack listener, particularly when I’m working, and the Tron Legacy soundtrack is almost certainly my most frequently listened. Seriously, if you haven’t heard it (and that’s a fair possibility, the film really wasn’t that great), go listen now (&lt;a href=&quot;https://itunes.apple.com/gb/album/tron-legacy-original-motion/id715635668?uo=4&amp;amp;at=1000l8mx&quot;&gt;Apple Music&lt;/a&gt; &lt;a href=&quot;https://open.spotify.com/album/2GC8kfyiyPjyheUUWyEY8F&quot;&gt;Spotify&lt;/a&gt;).
+&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;Today’s photo is of the plastic grid holding the pebbles in place at a car park. For some reason, it reminded me of Tron.
+&lt;img src=&quot;https://images.typed.com/2102ce0b-ff69-4cac-9f62-14beead046c1/image.jpeg&quot; alt=&quot;21/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Frost</title>
+   <link href="http://humanboring.net/Frost.html"/>
+   <updated>2016-01-20T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Frost</id>
+   <content type="html">&lt;p&gt;Today was, according to the weather forecasts, one of the coldest days of the year. Tonight will be, at least where I live in the south, possibly the coldest night too. Thankfully, although it’s been cold, it has also been dry. This meant that on the 5km walk I went on today, I only needed to wrap up warm, and not worry about a raincoat as well.
+&lt;!--break--&gt;
+Today’s photo was taken at 12:40 , and there was still a good layer of frost covering the ground. The path cutting through the icy grass provided a good setting for my picture.
+&lt;img src=&quot;https://images.typed.com/8851aab8-c5ff-4b60-b36a-e16b997b5f0d/image.jpeg&quot; alt=&quot;20/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Green</title>
+   <link href="http://humanboring.net/Green.html"/>
+   <updated>2016-01-19T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Green</id>
+   <content type="html">&lt;p&gt;Green is a colour that can mean very different thing: green trees, green with envy, looking a bit green. For me, the positive associations have always outweighed the negatives.&lt;/p&gt;
+
+&lt;p&gt;When looking at the division theme for this week, I’m trying to focus more on contrasts of colour and texture. A photo I took earlier, which I only realised later was out of focus, would have fit this perfectly. However, this photo I thought was interesting, since it is all one colour, with only differences in depth and texture.
+&lt;!--break--&gt;
+Today’s photo is of the top of my green radiator and the green wall behind.
+&lt;img src=&quot;https://images.typed.com/830815c4-0521-42ae-9813-11c2df1807fd/image.jpeg&quot; alt=&quot;19&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Division</title>
+   <link href="http://humanboring.net/The-Division.html"/>
+   <updated>2016-01-18T00:00:00+00:00</updated>
+   <id>http://humanboring.net/The-Division</id>
+   <content type="html">&lt;p&gt;So since I’m entering the fourth week of my photo experiment. At the end of January I’m planning to do a wrap-up post, including my best pictures of the past month, but more on that later. I’ve managed to get 17 days through the year without any sort of plan at the start of the day. To keep me on my toes, I’m setting myself a theme for the next seven days: division&lt;sup id=&quot;fnref:division&quot;&gt;&lt;a href=&quot;#fn:division&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. 
+&lt;!--break--&gt;
+Today’s picture is from the front gardens of two houses I was walking past. Rather than dividing their property with a wall or a fence, they used two different kinds of rocks. One side opted from slate, and the other pebbles.
+&lt;img src=&quot;https://images.typed.com/03fff1f4-eaae-48fc-a0e8-a3edd1721997/image.jpeg&quot; alt=&quot;18/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:division&quot;&gt;
+      &lt;p&gt;Nothing to do with the much delayed &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Tom_Clancy%27s_The_Division&quot;&gt;Tom Clancy game&lt;/a&gt; &lt;a href=&quot;#fnref:division&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fire</title>
+   <link href="http://humanboring.net/Fire.html"/>
+   <updated>2016-01-17T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Fire</id>
+   <content type="html">&lt;p&gt;Today has been one of the coldest days of the year. Even at 3pm there was some frost left on the ground, so I know it can’t be much above freezing. Although the cold is refreshing, and can be beautiful, especially on a clear day, it’s always good to get back inside into the warmth. My favourite way of warming back up after being out in the cold is to light the fire. Fire has always held a particular fascination, with the orange and yellow glow of the wood and the plasma flames flickering above.
+&lt;!--break--&gt;
+Today’s photo is of the log burning stove, shortly after one of the logs caught on fire.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.typed.com/dc53b4e4-a73e-41bb-a87c-f50585a809ff/image.jpeg&quot; alt=&quot;17/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Richmond</title>
+   <link href="http://humanboring.net/Richmond.html"/>
+   <updated>2016-01-16T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Richmond</id>
+   <content type="html">&lt;p&gt;This is one of my favourite places in London to visit. When I was younger, I would often head there with my parents, walking on the banks of the Thames or wondering the streets. It’s particularly beautiful at night. Today, since I was going past, I took a photo of the garden of the branch of the Grape and Olive, which is facing out to the river. There was nobody out in the garden this evening, since the weather is finally wintery here (meaning it’s close to freezing, rather than 10°C or so.
+&lt;!--break--&gt;
+This evening’s picture is of the lights illuminating a pub garden on the bank of the River Thames.
+&lt;img src=&quot;https://images.typed.com/0465f731-3141-4db2-8efe-43d888e25502/image.jpeg&quot; alt=&quot;16/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Glockenspiel</title>
+   <link href="http://humanboring.net/Glockenspiel.html"/>
+   <updated>2016-01-15T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Glockenspiel</id>
+   <content type="html">&lt;p&gt;I’ve always been interested in music. When I was about 6 I started to play the recorder in school. Not too long after that I began piano lessons, and since then I’ve learned, or taught myself how to play, half a dozen instruments, with varying levels of skill. With the piano as the basis of my musical understanding, and my sight-reading ability, I was able to fairly quickly pick up basic glockenspiel techniques to accompany Christmas songs for my school choir.
+&lt;!--break--&gt;
+Here is a picture of a glockenspiel &lt;sup id=&quot;fnref:fn-xylophone&quot;&gt;&lt;a href=&quot;#fn:fn-xylophone&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; (not my own).
+&lt;img src=&quot;https://images.typed.com/4935a817-500a-4c9a-b312-3863502b8cbf/image.jpeg&quot; alt=&quot;15/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-xylophone&quot;&gt;
+      &lt;p&gt;Many people think that this is a xylophone. In fact, a xylophone has wooden bars, that you hit to make the notes. If it has metal bars, it’s a glockenspiel, a type of metalophone. &lt;a href=&quot;#fnref:fn-xylophone&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bubbles</title>
+   <link href="http://humanboring.net/Bubbles.html"/>
+   <updated>2016-01-14T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Bubbles</id>
+   <content type="html">&lt;p&gt;I had a quiet day today, spending as much time with my dog as I can. In the afternoon, I took a nice relaxing bath with bubbles. The pattern the bubbles form in the water has always been something I’ve been interested in. When I was a child I would make a bubble beard, and then mix up “potions” out of bathroom products, much to the annoyance of my parents I’m sure. 
+&lt;!--break--&gt;
+Today’s photo is bubbles.
+&lt;img src=&quot;https://images.typed.com/6f0613a3-3799-4ad2-bb78-e8077b367a64/image.jpeg&quot; alt=&quot;14/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gaia</title>
+   <link href="http://humanboring.net/Gaia.html"/>
+   <updated>2016-01-13T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Gaia</id>
+   <content type="html">&lt;p&gt;Today, my dog of 12 years was diagnosed with an inoperable tumour in her liver. She had been loosing weight, and had an upset stomach for the past few weeks, but this is still upsetting news. As anyone who has lost a pet knows, it isn’t easy at any age. I’m happy to know that she’s lived 12 happy years with us.&lt;/p&gt;
+
+&lt;p&gt;She has come home with us, and we will spend as much time with her as we can. Next week, she will he be put down at home, where at least she can be somewhere she feels safe and comfortable. 
+&lt;!--break--&gt;
+Today’s picture is of Gaia, my Irish Terrier. Thank you for all the happy times.
+&lt;img src=&quot;https://images.typed.com/b9d194dc-228a-4e7a-8778-5e4f4bab7853/image.jpeg&quot; alt=&quot;13/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chicken</title>
+   <link href="http://humanboring.net/Chicken.html"/>
+   <updated>2016-01-12T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Chicken</id>
+   <content type="html">&lt;p&gt;My mother, for several years, has kept chickens in the back garden. There are currently two of them&lt;sup id=&quot;fnref:foxes&quot;&gt;&lt;a href=&quot;#fn:foxes&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; living alongside a dog and a cat. It’s interesting that all of my family agree on the pet rankings:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Dog&lt;/li&gt;
+  &lt;li&gt;Cat&lt;/li&gt;
+  &lt;li&gt;Chickens&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Whether this is to do with how often we see then, the amount they react and interact with us, or just the fact that we all love dogs I don’t know.&lt;/p&gt;
+
+&lt;p&gt;The photo today is of one of the chickens, in her fox-proof run.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/a147cd97-34bd-447b-a6e7-88231bd2fe5b/image.jpeg&quot; alt=&quot;12/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:foxes&quot;&gt;
+      &lt;p&gt;More than one having died by the jaws of a fox, which is why we bought a fox-proof run. &lt;a href=&quot;#fnref:foxes&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tyrannosaur</title>
+   <link href="http://humanboring.net/Tyrannosaur.html"/>
+   <updated>2016-01-11T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Tyrannosaur</id>
+   <content type="html">&lt;p&gt;Most days I walk past a certain wall. Although most walls completely unextraordinary, this one caught my eye. It’s made of rough, uneven bricks of some kind of red stone. This wall is clearly old, as it is covered in patches of crustose lichen&lt;sup id=&quot;fnref:fn-lichen&quot;&gt;&lt;a href=&quot;#fn:fn-lichen&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;This particular brick had a pattern of raised rock and lichen that looked to me like a cross between a Tyrannosaurus Rex and a &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Parasaurolophus&quot;&gt;Parasaurolophus&lt;/a&gt; to me, so I chose it as today’s photo.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/84e23cf3-beaa-43f2-aac6-325aa67ec9e1/image.jpeg&quot; alt=&quot;11/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-lichen&quot;&gt;
+      &lt;p&gt;Have a look &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Crustose_lichen&quot;&gt;here&lt;/a&gt; for more info, especially if you know more about lichen than me. I’m far from an expert. &lt;a href=&quot;#fnref:fn-lichen&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Moss</title>
+   <link href="http://humanboring.net/Moss.html"/>
+   <updated>2016-01-10T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Moss</id>
+   <content type="html">&lt;p&gt;When I first went to university to study Biology, I was much more interested in animals than plants. Although that’s probably still the case, I have come to have a much greater appreciation for plants over the years.&lt;/p&gt;
+
+&lt;p&gt;In particular I find mosses and algae fascinating. They’re small (usually&lt;sup id=&quot;fnref:fn-moss&quot;&gt;&lt;a href=&quot;#fn:fn-moss&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;) and often overlooked, but are vital for certain ecosystems.&lt;/p&gt;
+
+&lt;p&gt;Today’s photo is some moss growing in the top of a wall I spotted whilst walking the dog.
+&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.typed.com/46965ec3-2700-4b47-81f4-9193b4bcd5d9/image.jpeg&quot; alt=&quot;10/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-moss&quot;&gt;
+      &lt;p&gt;An exception is the &lt;em&gt;Dawsonia superba&lt;/em&gt; species of moss, which can grow up to &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Dawsonia_superba&quot;&gt;60cm tall&lt;/a&gt; &lt;a href=&quot;#fnref:fn-moss&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Flowering</title>
+   <link href="http://humanboring.net/Flowering.html"/>
+   <updated>2016-01-09T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Flowering</id>
+   <content type="html">&lt;p&gt;I originally started writing up a whole different post today. However, when I actually looked at that on my iPad, I realised it was out of focus, and a little bit crappy.&lt;/p&gt;
+
+&lt;p&gt;Instead, here is a photo I took this morning, when I was walking to the shop&lt;sup id=&quot;fnref:fn-Podcast&quot;&gt;&lt;a href=&quot;#fn:fn-Podcast&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Although it’s mid January, and so the middle of winter here in the northern hemisphere, I noticed this flowering plant in somebody’s front garden.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/eab5a147-78df-4c79-ad03-8c34790bb3f3/image.jpeg&quot; alt=&quot;9/366&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-Podcast&quot;&gt;
+      &lt;p&gt;As a side note, while taking this photo I was listening to a really excellent Episode of &lt;a href=&quot;https://gimletmedia.com/show/reply-all/&quot;&gt;Reply All&lt;/a&gt;. It’s about a family dealing with a child with cancer, and is definite worth a listen. &lt;a href=&quot;https://itunes.apple.com/gb/podcast/reply-all/id941907967?mt=2&amp;amp;i=360276006&quot;&gt;Here&lt;/a&gt; is a list to the episode on iTunes. &lt;a href=&quot;#fnref:fn-Podcast&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Friday</title>
+   <link href="http://humanboring.net/Friday.html"/>
+   <updated>2016-01-08T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Friday</id>
+   <content type="html">&lt;p&gt;Today is the end of the working week for most people, and the weekend can’t come soon enough. Today I’ve been comparing excel spreadsheets with invoices, which isn’t the most thrilling task. With any luck, the weekend will bring good weather and some relaxation, along with some good photos.
+&lt;!--break--&gt;
+Today’s photo is taken from my desk, in a slightly too warm office.
+&lt;img src=&quot;https://images.typed.com/2a8bebd3-2f2d-4826-b97d-1f43ce772e49/image.jpeg&quot; alt=&quot;8/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Winter</title>
+   <link href="http://humanboring.net/Winter.html"/>
+   <updated>2016-01-07T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Winter</id>
+   <content type="html">&lt;p&gt;Yes, I’m feeling much better today, thank you for asking.&lt;/p&gt;
+
+&lt;p&gt;There was some really horrible weather this morning where I live. Wind and rain battering my window woke me up, and was worried I’d be stuck in all day. Thankfully the weather cleared, and by the afternoon it was a beautiful, crisp winter day.&lt;/p&gt;
+
+&lt;p&gt;Today’s photo is of the evening sky, with the clouds reflecting the colours of the sunset. The photo that best showed those colours was, unfortunately, out of focus.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/772942ca-a871-40f0-9d95-4b64e52dda3b/image.jpeg&quot; alt=&quot;7/355&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sick</title>
+   <link href="http://humanboring.net/Sick.html"/>
+   <updated>2016-01-06T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Sick</id>
+   <content type="html">&lt;p&gt;I was sick in bed all day today, so didn’t get up outside to take a photo. My stomach bug was passed to me by family visiting over the new year, but was only really bad today thankfully.&lt;/p&gt;
+
+&lt;p&gt;In the end, I took today’s photo from the staircase outside my bedroom. With any luck I’ll be able to get out for tomorrow’s photo.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/c59efa2a-1c21-46e4-b04b-126cb77cec97/image.jpeg&quot; alt=&quot;6/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Day Five</title>
+   <link href="http://humanboring.net/Day-Five.html"/>
+   <updated>2016-01-05T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Day-Five</id>
+   <content type="html">&lt;p&gt;Another photo taken in the daylight, another photo taken in the park. Today I took a shot of an interesting log, which shows off the macro capabilities of my iPhone 6s+. The sun setting in the background added in some nice colours, especially when blurred.&lt;/p&gt;
+
+&lt;p&gt;All my photos so far have been taken using an iPhone 6s+, and edited using the photos app. If I use a different camera, or different editing software, in future, I’ll give details on that post.
+&lt;!--break--&gt;
+&lt;img src=&quot;https://images.typed.com/87995702-7261-4f9a-ab33-a6d4e72d566c/image.jpeg&quot; alt=&quot;5/366&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bushy Park</title>
+   <link href="http://humanboring.net/Bushy-Park.html"/>
+   <updated>2016-01-04T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Bushy-Park</id>
+   <content type="html">&lt;p&gt;Today is day four of my photo experiment, and the first day I actually remembered to take a photo that was both outdoors and during the daylight.&lt;/p&gt;
+
+&lt;p&gt;This photo was taken whilst walking my dog in &lt;a href=&quot;https://www.royalparks.org.uk/parks/bushy-park&quot;&gt;Bushy Park&lt;/a&gt;, one of the largest parks in London. The sun was just starting to set and the clouds turned a beautiful pink colour.&lt;/p&gt;
+
+&lt;!--break--&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.typed.com/f8e2f5fc-98b1-4da7-af27-f955da289064/image.jpeg&quot; alt=&quot;4/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Birthday</title>
+   <link href="http://humanboring.net/Birthday.html"/>
+   <updated>2016-01-03T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Birthday</id>
+   <content type="html">&lt;p&gt;Happy birthday to me! I spent the day out in central London with my partner and family, and had a wonderful time despite the rain. We spent lunch in a restaurant in East London called &lt;a href=&quot;http://www.8hoxtonsquare.com&quot;&gt;8 Hoxton Square&lt;/a&gt;. The food was excellent, as were the cocktails we had (especially the bramble). 
+&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;My photo for today was of the unusual plate my starter was served on. Unfortunately, I only realised this evening that the picture is a bit blurry.
+&lt;img src=&quot;https://images.typed.com/72430a65-8952-44a9-b0e8-dedebb54d057/IMG_0130.jpg&quot; alt=&quot;3/366&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Two</title>
+   <link href="http://humanboring.net/Two.html"/>
+   <updated>2016-01-02T00:00:00+00:00</updated>
+   <id>http://humanboring.net/Two</id>
+   <content type="html">&lt;p&gt;Post number two. This is my second nighttime photo as I’ve been not very good at remembering to take photos earlier in the day. I’ll make sure to set a reminder to take tomorrow’s photo during the light tomorrow.
+&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.typed.com/327862ca-a1ff-4709-892a-6e30214170fe/IMG_0123.jpg&quot; alt=&quot;2/366&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;p.s. - I’m still using typed.com as my blog host, as the Jekyll / Github pages setup I was using is no longer compatible with my page setup. I have, at least for now, given up and moved to a simpler platform.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>366 Days</title>
+   <link href="http://humanboring.net/366-Days.html"/>
+   <updated>2016-01-01T00:00:00+00:00</updated>
+   <id>http://humanboring.net/366-Days</id>
+   <content type="html">&lt;p&gt;Today is the first day of the new year. My resolution to myself was to be more active on my blog, since I went through all the trouble of getting it up and running. However, I’m not somebody to whom being active online comes easy.&lt;/p&gt;
+
+&lt;p&gt;The solution came when I was browsing the web, as it so often does. I stumbled across the &lt;a href=&quot;http://2016photochallenge.com&quot;&gt;Pic: 366&lt;/a&gt; site, where people are encouraged to post one photo per day of 2016 online. For me, this website will be my location.
+&lt;!--break--&gt;
+1/366 - View from my old bedroom in my parent’s house.
+&lt;img src=&quot;https://images.typed.com/ef8dcb76-2e4c-4b0c-8e73-4b3ab8dbedc2/IMG_0118.jpg&quot; alt=&quot;1/366&quot; /&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
