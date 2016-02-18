@@ -9,6 +9,7 @@
 }
 
 .masthead-title {
+  padding-right: 1rem;
   margin-top: 0;
   margin-bottom: 0;
   color: $link-color;
@@ -18,8 +19,9 @@
   }
 
   small {
+  	padding-left: 1rem;
     font-size: 75%;
     font-weight: 400;
-    color: $grey-4
+    color: #515151;
   }
 }
