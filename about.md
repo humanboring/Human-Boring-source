@@ -22,5 +22,5 @@ Want to follow this page on social media?
 * [Facebook](http://www.facebook.com/humanboringnet)
 * [Twitter](http://www.twitter.com/humanboringn)
 * [Tumblr](https://www.tumblr.com/blog/qakgob)
-* [Instagram](www.instagram.com/humanboring)
+* [Instagram](http://www.instagram.com/humanboring)
 * [Flickr](https://www.flickr.com/photos/31904806@N04/)
