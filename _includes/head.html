@@ -11,18 +11,25 @@
   </title>
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
-  <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/public/icon.ico">
-  <link rel="mask-icon" href="/public/favicon.svg" color="#dc143c">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
-  <script src="//http://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-  <script type="text/javascript" src="{{ site.baseurl }}/public/bigfoot.js"></script>
-  <script type="text/javascript">
-	var bigfoot = $.bigfoot(
-		{
-		actionOriginalFN: "ignore",
-		positionContent: "true"
-		}
-	);
-  </script>
+  
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@site_username">
+	<meta name="twitter:creator" content="@creator_username">
+	{% if page.title %}
+		<meta name="twitter:title" content="{{ page.title }}">
+	{% else %}
+		<meta name="twitter:title" content="{{ site.title }}">
+	{% endif %}
+	{% if page.url %}
+  		<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+	{% endif %}
+	<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">	
+	{% if page.image %}
+		<meta name="twitter:image:src" content="http://media.humanboring.net/photos/{{ page.image }}">
+	{% else %}
+		<meta name="twitter:image:src" content="http://media.humanboring.net/photos/Default.jpeg">
+	{% endif %}
 </head>
