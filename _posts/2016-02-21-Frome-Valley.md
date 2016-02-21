@@ -10,4 +10,4 @@ Later this evening I'm going to watch [Spotlight](https://itunes.apple.com/gb/mo
 
 Today's photo is of moss growing on a small wall close to the River Frome, Bristol
 
-![52/366](http://media.humanboring.net/photos/2016-02-21.jpg)
+![52/366](http://media.humanboring.net/photos/2016-02-21.jpeg)
