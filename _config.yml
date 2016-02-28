@@ -2,9 +2,9 @@
 permalink:           none
 
 # Setup
-title:               Human Boring
-tagline:             Definitely a human
-url:                 http://humanboring.net
+title:               Ben Hamblin-Pyke
+tagline:             Hello!
+url:                 http://www.bhp.org.uk
 paginate:            10
 baseurl:             ""
 
@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              Ben Hamblin-Pyke
-  url:               https://twitter.com/humanboring
+  url:               https://twitter.com/bhp_uk
   email:             me@humanboring.net
 
 # Custom vars
