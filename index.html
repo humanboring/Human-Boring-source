@@ -13,9 +13,11 @@ title: Home
      </h1>  
      {{ post.content | split:'<!--break-->' | first }}
  		{% if post.content contains '<!--break-->' %}
-       <a href="{{ post.url }}"></br></br>Read more</a>
+     <a href="{{ post.url }}"></br></br>Read more</a>
  		{% endif %}
     </article>
     {% endfor %}
-    <a href="{{ site.baseurl }}/about.html" title="About">Past months are here</a><br><br><br>
+  </div>
+  <div class="masthead">
+   <a href="{{ site.baseurl }}/about.html" title="About">Past months are here</a>
   </div>
