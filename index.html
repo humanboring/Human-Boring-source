@@ -2,6 +2,14 @@
 layout: default
 title: Home
 ---
+ <div class="posts">
+  <h1 class="post-title">
+   Hello!
+  </h1>
+  Follow the links above to follow me on the web. Below are some of my favourite things for this month.</br> 
+  Send me an <a href="mailto:me@humanboring.net">email</a> if you have any comments.</br>
+ 😊
+ </div>
  
  <div class="posts">
    {% for post in paginator.posts %}
@@ -18,6 +26,7 @@ title: Home
     </article>
     {% endfor %}
   </div>
+  
   <div class="masthead">
    <a href="{{ site.baseurl }}/archive.html" title="Archive">Past months are here</a>
   </div>
