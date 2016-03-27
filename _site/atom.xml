@@ -4,7 +4,7 @@
  <title>Ben Hamblin-Pyke</title>
  <link href="http://www.bhp.org.uk/atom.xml" rel="self"/>
  <link href="http://www.bhp.org.uk/"/>
- <updated>2016-03-27T19:32:57+01:00</updated>
+ <updated>2016-03-27T20:22:42+01:00</updated>
  <id>http://www.bhp.org.uk</id>
  <author>
    <name>Mark Otto</name>
@@ -14,45 +14,33 @@
  
  <entry>
    <title>Song</title>
-   <link href="http://www.bhp.org.uk/2016/02/27/Song/"/>
-   <updated>2016-02-27T00:00:00+00:00</updated>
-   <id>http://www.bhp.org.uk/2016/02/27/Song</id>
-   <content type="html">&lt;p&gt;My Favourite song of this month is &lt;a href=&quot;http://tidal.com/track/57273409&quot;&gt;Ultralight Beam&lt;/a&gt; by &lt;a href=&quot;http://www.kanyewest.com&quot;&gt;Kanye West&lt;/a&gt;.&lt;sup id=&quot;fnref:fn-1&quot;&gt;&lt;a href=&quot;#fn:fn-1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:fn-1&quot;&gt;
-      &lt;p&gt;I’ll normally embed the track using Spotify, Soundcloud, or link to Apple Music, but this song is only available on Tidal. &lt;a href=&quot;#fnref:fn-1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
+   <link href="http://www.bhp.org.uk/Song.html"/>
+   <updated>2016-03-27T00:00:00+00:00</updated>
+   <id>http://www.bhp.org.uk/Song</id>
+   <content type="html">&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/252375627&amp;amp;color=25ad59&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
  <entry>
    <title>Post</title>
-   <link href="http://www.bhp.org.uk/2016/02/26/post/"/>
-   <updated>2016-02-26T00:00:00+00:00</updated>
-   <id>http://www.bhp.org.uk/2016/02/26/post</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;https://marco.org/2016/02/05/watch&quot;&gt;The Apple Watch got me hooked on mechanical watches&lt;/a&gt;&lt;/p&gt;
+   <link href="http://www.bhp.org.uk/post.html"/>
+   <updated>2016-03-26T00:00:00+00:00</updated>
+   <id>http://www.bhp.org.uk/post</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.theverge.com/2016/3/24/11297534/superbrothers-sword-and-sworcery-retrospective&quot;&gt;Five years of Sword &amp;amp; Sworcery: the history of a weird and beautiful game&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;A big part of that joy, for me, is that this isn’t like anything else in my life, and the difference is refreshing.&lt;/p&gt;
-
-  &lt;p&gt;Most of my work and hobbies involve technologically cutting-edge digital electronics reliant on complex, inconsistent software, with a typical lifetime of a few years at most. Almost everything else I use and make is effectively disposable.&lt;/p&gt;
+  &lt;p&gt;While at a GDC party, Adams met Nathan Vella, president of a then relatively unknown Toronto studio called Capy Games. It turns out that one of Adams’ former Koei co-workers had gone on to work at Capy, and introduced Vella to his work. It didn’t take long for the collaboration to start. “Fifteen seconds after meeting Nathan he said ‘Let’s make a game together,’” says Adams.&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
  </entry>
  
  <entry>
    <title>Photo</title>
-   <link href="http://www.bhp.org.uk/2016/02/25/photo/"/>
-   <updated>2016-02-25T00:00:00+00:00</updated>
-   <id>http://www.bhp.org.uk/2016/02/25/photo</id>
-   <content type="html">&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;6&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/BB_m5ahREIu/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Photography, along with everything in life is all about how much work you&amp;#39;re willing to put into it.&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by Samuel Elkins (@samuelelkins) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2016-02-20T03:59:41+00:00&quot;&gt;Feb 19, 2016 at 7:59pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+   <link href="http://www.bhp.org.uk/photo.html"/>
+   <updated>2016-03-25T00:00:00+00:00</updated>
+   <id>http://www.bhp.org.uk/photo</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.fastcodesign.com/3057926/the-best-scientific-image-of-the-year-was-a-hand-painted-watercolor&quot;&gt;The Best Scientific Image Of The Year Was A Hand-Painted Watercolor&lt;/a&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/www.bhp.org.uk/3057926-slide-s-0a-the-best-scientific-image-of-the-year-was-a-hand-painted-watercolor.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  

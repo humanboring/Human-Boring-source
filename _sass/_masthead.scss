@@ -1,8 +1,41 @@
 // Masthead
 //
 // Super small header above the content for site name and short description.
-.masthead-box{
+.masthead-box-jan{
+ background-color: $january;   
+}
+.masthead-box-feb{
  background-color: $february;   
+}
+.masthead-box-mar{
+ background-color: $march;   
+}
+.masthead-box-apr{
+ background-color: $april;   
+}
+.masthead-box-may{
+ background-color: $may;   
+}
+.masthead-box-jun{
+ background-color: $june;   
+}
+.masthead-box-jul{
+ background-color: $july;   
+}
+.masthead-box-aug{
+ background-color: $august;   
+}
+.masthead-box-sep{
+ background-color: $september;   
+}
+.masthead-box-oct{
+ background-color: $october;   
+}
+.masthead-box-nov{
+ background-color: $november;   
+}
+.masthead-box-dec{
+ background-color: $december;   
 }
 .masthead {
   padding-top:    1rem;
