@@ -1,11 +1,11 @@
 # Permalinks
-permalink:           none
+permalink:           pretty
 
 # Setup
 title:               Ben Hamblin-Pyke
-tagline:             Hello!
+tagline:             
 url:                 http://www.bhp.org.uk
-paginate:            10
+paginate:            3
 baseurl:             ""
 
 # Assets
@@ -17,12 +17,16 @@ sass:
 
 # About/contact
 author:
-  name:              Ben Hamblin-Pyke
-  url:               https://twitter.com/bhp_uk
-  email:             me@humanboring.net
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
 
 # Gems
-gems: 		      [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-gist

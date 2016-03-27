@@ -2,20 +2,24 @@
 layout: default
 title: Home
 ---
- 
- <div class="posts">
-   {% for post in paginator.posts %}
-   <article class="post">
-     <h1 class="post-title">
-       <a href="{{ site.baseurl }}{{ post.url }}">
-         {{ post.title }}
-       </a>
-     </h1>  
-     {{ post.content | split:'<!--break-->' | first }}
- 		{% if post.content contains '<!--break-->' %}
-       <a href="{{ post.url }}"></br></br>Read more</a>
- 		{% endif %}
-    </article>
-    {% endfor %}
-    <a href="{{ site.baseurl }}/archive.html" title="Archive">Archive of previous months here</a> </small>
-  </div>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">  
+    <span class="pagination-item older">January</span>
+    <a class="pagination-item newer" href="{{ site.baseurl }}">March</a>
+</div>
