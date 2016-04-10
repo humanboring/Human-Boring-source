@@ -6,8 +6,9 @@
 .page,
 .post {
   margin-bottom: 4em;
+  border: solid #eee 1px;
   border-radius: 5px;
-  box-shadow: 0 11px 25px 0 rgba(0, 0, 0, 0.4);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.4);
   padding-left:  .25rem;
   padding-right: .25 rem;
   padding-bottom: .25 rem;
