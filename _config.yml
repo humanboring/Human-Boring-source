@@ -1,32 +1,18 @@
-# Permalinks
-permalink:           none
+title: BHP
+email: me@humanboring.net
+description: Ben Hamblin-Pyke’s homepage on the web
+baseurl: "" 
+url: “http:bhp.org.uk/” 
+twitter_username: bhp_uk
+github_username:  qakgob
 
-# Setup
-title:               Ben Hamblin-Pyke
-tagline:             
-url:                 http://www.bhp.org.uk
-paginate:            3
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
-
-# Gems
+# Build settings
+markdown: kramdown
+theme: poole-theme
 gems:
-  - jekyll-paginate
-  - jekyll-gist
+  - jekyll-feed
+  - font-awesome-sass
+  - s3_website
+exclude:
+  - Gemfile
+  - Gemfile.lock
